@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>百纳仓 on Meirgoo Wiki</title><link>https://meirgoo.com/docs/</link><description>Recent content in 百纳仓 on Meirgoo Wiki</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 31 Oct 2025 22:03:42 +0800</lastBuildDate><atom:link href="https://meirgoo.com/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>概览</title><link>https://meirgoo.com/docs/overview/</link><pubDate>Fri, 31 Oct 2025 22:03:42 +0800</pubDate><guid>https://meirgoo.com/docs/overview/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>百纳仓 on Meirgoo Wiki</title>
+    <link>https://meirgoo.com/docs/</link>
+    <description>Recent content in 百纳仓 on Meirgoo Wiki</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 31 Oct 2025 22:03:42 +0800</lastBuildDate>
+    <atom:link href="https://meirgoo.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>概览</title>
+      <link>https://meirgoo.com/docs/overview/</link>
+      <pubDate>Fri, 31 Oct 2025 22:03:42 +0800</pubDate>
+      <guid>https://meirgoo.com/docs/overview/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
